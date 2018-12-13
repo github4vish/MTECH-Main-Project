@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Testing using WhylineTool", "MiniCompiler\Code Testing using WhylineTool.csproj", "{D4A1BC49-CCA6-44C1-9223-315BD5421FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A1BC49-CCA6-44C1-9223-315BD5421FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A1BC49-CCA6-44C1-9223-315BD5421FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A1BC49-CCA6-44C1-9223-315BD5421FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A1BC49-CCA6-44C1-9223-315BD5421FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
